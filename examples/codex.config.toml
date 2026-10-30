@@ -1,0 +1,3 @@
+[mcp_servers.yookassa]
+url = "https://mcp.yookassa.ru"
+bearer_token_env_var = "YOOKASSA_MCP_TOKEN"
